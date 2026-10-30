@@ -11,3 +11,8 @@ pom.xml.asc
 /.prepl-port
 .hgignore
 .hg/
+
+# CodeMirror playground
+/editor/node_modules/
+/editor/dist/
+/editor/.npm-cache/
