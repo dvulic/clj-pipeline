@@ -1,6 +1,6 @@
 # clj-pipeline
 
-A Clojure library designed to ... well, that part is up to you.
+Simple Clojure tool purposed to help agents and humans create interactive slides from existing assets
 
 ## Usage
 
