@@ -5,3 +5,5 @@
 @background assets/sample-bg.png
 @character Mimi scale 2 pose A
 @text "This is a sample lesson!"
+@text "Another text!"
+
